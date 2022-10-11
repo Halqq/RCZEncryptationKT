@@ -16,7 +16,7 @@ CharForString -> randomChar -> randomCharBytes == [-1] -> new char -> random byt
 To encode: 
 
 ```kotlin
-RCZCrypto.cryptoRCZ(RCZCrypto.ENCRYPT_MODE, inputText);
+RCZCrypto.cryptoRCZ(RCZCrypto.ENCRYPT_MODE, inputText)
 ```
 
 To decode:
