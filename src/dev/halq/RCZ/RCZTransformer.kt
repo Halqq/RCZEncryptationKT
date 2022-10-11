@@ -2,7 +2,7 @@ package dev.halq.RCZ
 
 object RCZTransformer {
 
-    val prefix = "Teste"
+    val prefix = "RCZ-,"
     val random = RCZMapping.randomJapanese()
     val getRandom = random
 
