@@ -2,6 +2,12 @@ package dev.halq.RCZ
 
 import kotlin.random.Random
 
+/**
+ * @author Halq
+ * @since 10/10/22
+ * @apiNote this is rewrite for rczEncrypt - java version
+ */
+
 object RCZMapping {
 
     val byteMapping: HashMap<String, String> = HashMap<String, String>()

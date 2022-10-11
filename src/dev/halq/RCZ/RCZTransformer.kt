@@ -1,5 +1,11 @@
 package dev.halq.RCZ
 
+/**
+ * @author Halq
+ * @since 10/10/22
+ * @apiNote this is rewrite for rczEncrypt - java version
+ */
+
 object RCZTransformer {
 
     val prefix = "RCZ-,"
