@@ -16,17 +16,17 @@ CharForString -> randomChar -> randomCharBytes == [-1] -> new char -> random byt
 To encode: 
 
 ```kotlin
-EncryptRCZ.encryptRCZ(EncryptRCZ.ENCODE_MODE, "input text");
+RCZCrypto.cryptoRCZ(RCZCrypto.ENCRYPT_MODE, inputText);
 ```
 
 To decode:
 ```kotlin
-EncryptRCZ.encryptRCZ(EncryptRCZ.DECODE_MODE, "encoded text");
+RCZCrypto.cryptoRCZ(RCZCrypto.DECODE_MODE, encodeText)
 ```
 # Example
 
 ```kotlin
-EncryptRCZ.encryptRCZ(EncryptRCZ.ENCODE_MODE, "hello world");
+RCZCrypto.cryptoRCZ(RCZCrypto.ENCODE_MODE, "hello world")
 ```
 hello world == $HalqRCZ!$ 73円後)前@&前7*79円後)前@&前7*77円後)前@&前7*77円後)前@&前7*80円後)前@&前7* 65円後)前@&前7*80円後)前@&前7*88円後)前@&前7*77円後)前@&前7*78円後)前@&前7*
 
