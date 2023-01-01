@@ -1,6 +1,8 @@
 # RCZEncryptationKT
 RCZ Encrypt uses maps to encrypt your string
 
+this use [ALPHABYTE](https://github.com/Halqq/Alphabyte-java) to to view the bytearray of encoded strings
+
 This use random chars bytes to transforme one char
 
 [A] -> [65] -> b -> [98] + 前今&前u@ == 8前9今&前u8@
